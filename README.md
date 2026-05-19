@@ -129,8 +129,8 @@ working_on:
 ## 📫 Get In Touch
 
 - 💼 Open to collaboration on network and infrastructure projects
-- 📧 Reach me at: **your-email@example.com**
-- 🔗 Connect with me on **[LinkedIn](your-linkedin-url)**
+- 📧 Reach me at: **ranndaraitofficial@gmail.com**
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rann-dara-9598b5367/)**
 
 ---
 
