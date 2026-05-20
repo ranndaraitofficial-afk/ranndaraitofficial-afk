@@ -102,11 +102,9 @@ Windows Server administration and enterprise solutions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranndaraitofficial-afk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=ranndaraitofficial-afk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranndaraitofficial-afk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranndaraitofficial-afk&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=ranndaraitofficial-afk&theme=dark&hide_border=false)
 
 </div>
 
