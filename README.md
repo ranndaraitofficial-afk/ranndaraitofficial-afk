@@ -98,12 +98,13 @@ Windows Server administration and enterprise solutions
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/ranndaraitofficial-afk?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ranndaraitofficial-afk?style=social)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranndaraitofficial-afk&show_icons=true&theme=tokyonight)](https://github.com/ranndaraitofficial-afk)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranndaraitofficial-afk&layout=compact&theme=tokyonight)](https://github.com/ranndaraitofficial-afk)
 
 </div>
 
